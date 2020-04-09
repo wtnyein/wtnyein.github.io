@@ -357,7 +357,7 @@ body.body-1 {
 }
 
 .container-grid#image-1 {
-  background-image: url('../images/Tech2.jpg');
+  background-image: url('../images/tech2.jpg');
   background-attachment: scroll;
   background-position: center center;
   background-clip: border-box;
